@@ -1,1 +1,0 @@
-# kafka-producer-user-event
